@@ -1,1 +1,2 @@
 some stuff goes here
+line 1 added
